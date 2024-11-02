@@ -1,0 +1,6 @@
+C:/Users/gianl/Desktop/ProgettoIntermedio-master/CMakeFiles/CMakeFiles/Book.dir
+C:/Users/gianl/Desktop/ProgettoIntermedio-master/CMakeFiles/CMakeFiles/ISBN.dir
+C:/Users/gianl/Desktop/ProgettoIntermedio-master/CMakeFiles/CMakeFiles/Date.dir
+C:/Users/gianl/Desktop/ProgettoIntermedio-master/CMakeFiles/CMakeFiles/ProgettoIntermedio.dir
+C:/Users/gianl/Desktop/ProgettoIntermedio-master/CMakeFiles/CMakeFiles/ALL_BUILD.dir
+C:/Users/gianl/Desktop/ProgettoIntermedio-master/CMakeFiles/CMakeFiles/ZERO_CHECK.dir
